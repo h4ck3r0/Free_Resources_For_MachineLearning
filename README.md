@@ -1,4 +1,3 @@
-
 # Learn Machine Learning from Scratch - Free Resources
 
 This guide will help you learn Machine Learning (ML) from scratch, covering all essential topics using **free YouTube videos, books, and tutorials**. Whether you're a complete beginner or someone brushing up on basics, this roadmap is for you.
@@ -6,6 +5,7 @@ This guide will help you learn Machine Learning (ML) from scratch, covering all 
 ---
 
 ## Table of Contents
+0. [Absolute Beginner Prep](#0-absolute-beginner-prep)
 1. [Introduction to Machine Learning](#1-introduction-to-machine-learning)
 2. [Mathematics for ML](#2-mathematics-for-ml)
 3. [Python for ML](#3-python-for-ml)
@@ -18,38 +18,54 @@ This guide will help you learn Machine Learning (ML) from scratch, covering all 
 
 ---
 
+## 0. Absolute Beginner Prep
+
+### What is AI & ML – in Simple Terms
+- [What is AI? | CBSE Class 9 Intro to AI](https://www.youtube.com/watch?v=2ePf9rue1Ao)
+
+### Very Basic Computer & Internet Skills (if needed)
+- [Basic Computer Skills](https://www.youtube.com/watch?v=p8kGZsQMuo4)
+- [How to Use Google Colab](https://www.youtube.com/watch?v=inN8seMm7UI)
+
+### Introduction to Logic & Problem Solving
+- [Harvard CS50 Lecture 0 - Intro to CS](https://www.youtube.com/watch?v=Yo3f8g7Yzws)
+
+---
+
 ## 1. Introduction to Machine Learning
 - **What is ML? Types of ML? Applications**
-- [YouTube: Simplilearn - What is Machine Learning?](https://www.youtube.com/watch?v=ukzFI9rgwfU)
-- [YouTube: StatQuest - The Three Types of ML](https://www.youtube.com/watch?v=8JvyBT4RUW8)
+- [Simplilearn - What is Machine Learning?](https://www.youtube.com/watch?v=ukzFI9rgwfU)
+- [StatQuest - The Three Types of ML](https://www.youtube.com/watch?v=8JvyBT4RUW8)
 
 ---
 
 ## 2. Mathematics for ML
+
 ### Linear Algebra:
-- [3Blue1Brown - Essence of Linear Algebra (Playlist)](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+- [Essence of Linear Algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
 ### Calculus:
-- [YouTube: Essence of Calculus by 3Blue1Brown](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+- [Essence of Calculus - 3Blue1Brown](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
 ### Probability & Statistics:
-- [YouTube: CrashCourse - Statistics (Playlist)](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOfse2ncvffeelTrqvhrz8H)
+- [CrashCourse - Statistics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOfse2ncvffeelTrqvhrz8H)
 
 ---
 
 ## 3. Python for ML
-- [YouTube: Programming with Mosh - Python for Beginners](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+- [Python for Beginners - Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 - [Book: Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
 ---
 
 ## 4. Data Preprocessing
-- [YouTube: Krish Naik - Data Preprocessing in ML](https://www.youtube.com/watch?v=4RJlK6zH9vI)
-- Topics: Handling missing values, encoding, feature scaling, normalization
+- [Krish Naik - Data Preprocessing in ML](https://www.youtube.com/watch?v=4RJlK6zH9vI)
+- **Topics**: Handling missing values, encoding, feature scaling, normalization
 
 ---
 
 ## 5. Supervised Learning
+
 ### Linear Regression:
 - [StatQuest - Linear Regression Clearly Explained](https://www.youtube.com/watch?v=nk2CQITm_eo)
 
@@ -66,6 +82,7 @@ This guide will help you learn Machine Learning (ML) from scratch, covering all 
 ---
 
 ## 6. Unsupervised Learning
+
 ### Clustering:
 - [StatQuest - K-means Clustering](https://www.youtube.com/watch?v=4b5d3muPQmA)
 
@@ -75,23 +92,24 @@ This guide will help you learn Machine Learning (ML) from scratch, covering all 
 ---
 
 ## 7. Model Evaluation
-- [YouTube: StatQuest - Precision, Recall, F1 Score](https://www.youtube.com/watch?v=4jRBRDbJemM)
-- [YouTube: Krish Naik - Cross Validation](https://www.youtube.com/watch?v=6dbrR-WymjI)
+- [StatQuest - Precision, Recall, F1 Score](https://www.youtube.com/watch?v=4jRBRDbJemM)
+- [Krish Naik - Cross Validation](https://www.youtube.com/watch?v=6dbrR-WymjI)
 
 ---
 
 ## 8. Projects & Practice
 - [Kaggle: Titanic Dataset](https://www.kaggle.com/competitions/titanic)
 - [GitHub Project: Crop Yield Prediction](https://github.com/h4ck3r0/crop-yielding-prediction)
-- [Website: Google Colab](https://colab.research.google.com/) for running ML notebooks
+- [Google Colab](https://colab.research.google.com/) - Run Python/ML notebooks in browser
 
 ---
 
 ## 9. Books & Bonus Resources
-- [Book: Python Data Science Handbook by Jake VanderPlas (Free)](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- [Book: Hands-On ML with Scikit-Learn & TensorFlow (1st Ed, Free PDF Available)](https://github.com/ageron/handson-ml)
-- [Course: Andrew Ng’s ML Course (Coursera - Audit Free)](https://www.coursera.org/learn/machine-learning)
+- [Python Data Science Handbook by Jake VanderPlas (Free)](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [Hands-On ML with Scikit-Learn & TensorFlow (1st Ed)](https://github.com/ageron/handson-ml)
+- [Andrew Ng’s ML Course (Coursera - Audit Free)](https://www.coursera.org/learn/machine-learning)
 
 ---
 
-Happy Learning! Feel free to fork, star, and contribute.
+**Happy Learning!**  
+Feel free to fork, star, and contribute.
