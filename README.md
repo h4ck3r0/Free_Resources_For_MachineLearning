@@ -1,4 +1,4 @@
-# 🚀 Learn Machine Learning & Deep Learning from Scratch – Free Resources
+# Learn Machine Learning & Deep Learning from Scratch – Free Resources
 
 This guide will help you learn **Machine Learning (ML)** and **Deep Learning (DL)** from scratch using **free YouTube videos, books, and tutorials**. Whether you're a beginner or brushing up, this roadmap is for you.
 
